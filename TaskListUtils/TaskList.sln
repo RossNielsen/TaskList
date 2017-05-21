@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskListUtils", "TaskListUtils\TaskListUtils.csproj", "{48D6AA9C-245D-4291-A14A-6370E6FCD1F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskListServer", "TaskListServer\TaskListServer.csproj", "{3DD21E95-6DA8-4705-B2C9-569FC42BB928}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskListClient", "TaskListServer\TaskListClient.csproj", "{3DD21E95-6DA8-4705-B2C9-569FC42BB928}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskListModels", "TaskListModels\TaskListModels.csproj", "{3286799D-A175-48F6-913C-0B1D59C5A120}"
 EndProject
